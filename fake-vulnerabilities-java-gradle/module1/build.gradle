@@ -10,6 +10,7 @@ repositories {
 }
 
 dependencies {
+    implementation 'org.jsoup:jsoup:2.12.1'
     implementation 'org.jsoup:jsoup:1.7.2'
     implementation 'com.squareup.okhttp:okhttp:2.1.0'
 
